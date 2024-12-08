@@ -282,6 +282,7 @@
 .control-center .control-center-list .notification .notification-default-action:hover,
 .control-center .control-center-list .notification .notification-action:hover {
   background-color: @color8;
+  color: @background;
 }
 
 .blank-window {
@@ -439,6 +440,8 @@
 
 .widget-buttons-grid > flowbox > flowboxchild > button.toggle:checked {
   /* style given to the active toggle button */
+	background-color: @foreground;
+	color: @background;
 }
 
 /* Menubar widget */
