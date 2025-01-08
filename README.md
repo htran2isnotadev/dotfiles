@@ -29,6 +29,8 @@ rofi is now used for setting wallpaper, if you want you can remove waypaper
 
 remember to `chmod +x` the `wal-rofi.sh` script in the `scripts` folder to use, along with the other ones to get the full effect.
 
+hit ctrl+tab while rofi is opened to switch modes between this and drun (app selector)
+
 ## spicetify
 this scheme is designed to use with the "text" theme, which you can get from [here](https://github.com/spicetify/spicetify-themes)
 
