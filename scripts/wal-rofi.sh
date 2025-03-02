@@ -19,7 +19,7 @@ else
         # wal -i `cat ~/.cache/wal/wal` > /dev/null #Allows you to just stay with current theme
     elif [ -n "${THEMES}" ]
     then
-        wal -i $WALLPAPERDIR\${THEMES} --backend haishoku > /dev/null
+        wal -i $WALLPAPERDIR/${THEMES} --backend haishoku > /dev/null
 	~/.config/scripts/apply_colors.sh > /dev/null
     fi
 fi
