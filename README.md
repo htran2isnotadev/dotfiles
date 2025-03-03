@@ -1,5 +1,6 @@
 # dotfiles
 my arch linux dotfiles (ft. hyprland & pywal)
+![preview](scr.png)
 
 ## how to install
 > [!NOTE]
